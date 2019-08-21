@@ -12,7 +12,7 @@ public class Gravity {
         double time;
         double distance;
         double speed;
-        double gravity = 9.8;
+        float gravity = 9.8;
 		/* TODO 2:
 		 *   c. Calculate the result and print it to the screen.
 		 * */
